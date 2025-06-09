@@ -1,5 +1,5 @@
 esphome:
-  name: s3
+  name: sync-player
   friendly_name: ESP32-S3 T-Display
   platformio_options:
     board_build.f_flash: 80000000L
